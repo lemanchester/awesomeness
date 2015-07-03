@@ -1,4 +1,4 @@
-# Awesomess 
+# Awesomeness 
 
 My curated list of resources related to Software Development.
 
