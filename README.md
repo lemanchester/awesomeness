@@ -14,6 +14,10 @@ My curated list of resources related to Software Development.
 * [Decentralizing Control: How Aligned Initiative Overcomes Uncertainty](http://vimeo.com/45947817) by **Donald G. Reinertsen**
 * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw&list=LLlt4ZSW8NUcXLWiB3NMnK_w) by **Joshua Bloch**
 
+###### Portuguese
+
+* [Tópios de Machine Learning](https://www.youtube.com/watch?v=l6L5VzgYyf8&list=PLsdA94XOHZX0oFggXoRivRDhz8YWIchfH) by **José Valim**
+
 ##### Inspiration and More
 
 [awesome-geek-podcasts](https://github.com/cv/awesome-geek-podcasts) and [awesome](https://github.com/sindresorhus/awesome).
