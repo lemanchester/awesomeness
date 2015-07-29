@@ -8,6 +8,7 @@ My curated list of resources related to Software Development.
 * [Nothing is Something](https://www.youtube.com/watch?v=LdWMcs9EEOE) by **Sandi Metz**[07:35:00]
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) by **Sandi Metz**
 * [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) by **Sandi Metz**
+* [Evolutionary Architecture At Work](https://www.youtube.com/watch?v=oWE65ztyu74) by **Phil Calcado**
 * [Hexagonal Rails](https://www.youtube.com/watch?v=CGN4RFkhH2M) by **Matt Wynne**
 * [Just Say No To :nodoc: and Document Your Code!](https://www.youtube.com/watch?v=tCw7CpRvYOE) by **Loren Segal**
 * [Concurrency Is Not Parallelism](https://vimeo.com/49718712) by **Rob Pike**
