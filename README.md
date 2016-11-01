@@ -20,6 +20,7 @@ My curated list of resources related to Software Development.
 * [The importance of trust](http://www.youtube.com/watch?v=gwj9bMLiV4E) by **Patrick Lencioni**
 * [Decentralizing Control: How Aligned Initiative Overcomes Uncertainty](http://vimeo.com/45947817) by **Donald G. Reinertsen**
 * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw&list=LLlt4ZSW8NUcXLWiB3NMnK_w) by **Joshua Bloch**
+* [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) by **Erik Meijer**
 
 ###### Portuguese
 
