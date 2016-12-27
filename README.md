@@ -7,6 +7,8 @@ My curated list of resources related to Software Development.
 ###### English
 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey**
+* ["The Mess We're In"](https://www.youtube.com/watch?v=lKXe3HUG2l4) by **Joe Armstrong**
+* [Keynote - (Ruby 3x3)](https://www.youtube.com/watch?v=LE0g2TUsJ4U) by **Yukihiro "Matz" Matsumoto**
 * [The Soul of Software](https://www.youtube.com/watch?v=IgbHzFb1hGw) by **Avdi Grimm**
 * [Nothing is Something](https://www.youtube.com/watch?v=LdWMcs9EEOE) by **Sandi Metz**[07:35:00]
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) by **Sandi Metz**
